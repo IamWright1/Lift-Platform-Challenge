@@ -62,7 +62,7 @@ Where our final circuit looked like [this](https://github.com/user-attachments/a
 
 <h2>Reflection</h2>
 
-In the end I learned how to do mechanical analysis on many parts including the shafts in the gear train and bolts mounting the lift. I further developed my skills in SolidWorks when designing the whole gear train and developed my skills with 3D printing using Bambu X1C, Prusa Mk4, and Flash Forge 5m.
+In the end I learned how to do mechanical analysis on many parts including the shafts in the gear train and bolts mounting the lift. I further developed my skills in SolidWorks when designing the whole gear train and developed my skills with 3D printing using Bambu X1C, Prusa Mk4, and Flash Forge 5m. I also continued practicing my technical writing finishing the [Final Report](https://github.com/IamWright1/Lift-Platform-Challenge/blob/main/Final%20Report.pdf) lasting over 40 pages.
 
 
 
