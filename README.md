@@ -14,6 +14,7 @@ But a quick overview includes:
 <h2>The process</h2>
 
 <h3>The Beginning</h3>
+
 We first began by brainstorming 3 different designs based off of current designs out there and the three that we came up with were a Rack Lift a Scissor Lift and a Screw Lift. We talked about the different designs and ended up going with the Scissor lift as described in [Design Update 1](https://github.com/IamWright1/Lift-Platform-Challenge/blob/main/Design%20update%201/Design%20Update%201.pdf). We then thought about how to produce the design while still following the project rules. For each of the designs we calculate the required gear torque needed to lift the weight and the efficiency from a gear train to determine the best build where we came up with a Scissor lift design and our initial sketch is shown below.
 
 <n><img width="234" height="413" alt="Picture3" src="https://github.com/user-attachments/assets/b58bd99b-6bcf-42b0-9bd1-20dcae9b063e" />
