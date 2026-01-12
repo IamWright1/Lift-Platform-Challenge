@@ -1,4 +1,4 @@
-# Lift-Platform-Challenge
+<h1>Lift Platform Challenge</h1>
 
 <h2>The Goal</h2>
 
